@@ -1,2 +1,2 @@
-# C-programming-BIM-sem-1
-My codes
+# C-programming
+C programming codes from BIM sem1
